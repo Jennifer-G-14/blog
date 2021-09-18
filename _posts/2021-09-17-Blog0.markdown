@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Blog0!"
+date:   2021-09-17 18:23:20 -0700
+categories: jekyll update
+---
+# Python Crash Course Day 1!
+
+## What is Python?
+Python is a high-level general-purpose interpreted language. Its design emphasizes code readability with heavy indentation. Its object-oriented approach and language constructs help programmers write clear, logical code for small and large projects.
+
+## Who can learn Python?
+Everyone!!! I'll have you coding by the end of this blog!
+
+## Download Python 
+Here is the link to get Python on your machine. For this Blog series we will be learning Python 3. I also recommend using Visual Studio Code to write and debug your code. 
+(https://www.python.org/downloads/)
+
+## First Program HELLO WORLD!
+To print something in Python the command is 'print'
+Whatever you want to print has to in parantehsis () and inclosed in quation marks ""
+
+print ("Hello World"')
+output: Hello World!
