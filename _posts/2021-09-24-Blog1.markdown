@@ -22,12 +22,12 @@ output: 10
 ## Naming Rules for Variables
 Variables have some rules when declaring them.
 
-1) A variable name must start with a letter or the underscore character.
+* A variable name must start with a letter or the underscore character.
 Example: num1, input
-2) A variable name cannot start with a number.
+* A variable name cannot start with a number.
 Example: 1num 
-3) A variable name can only contain alpha-numeric characters and underscores.
+* A variable name can only contain alpha-numeric characters and underscores.
 Example: num_1, user_input
-4) Variable names are case-sensitive (name, Name and NAME are three different variables).
-5) The reserved words(keywords) cannot be used naming the variable.
+* Variable names are case-sensitive (name, Name and NAME are three different variables).
+* The reserved words(keywords) cannot be used naming the variable.
 
