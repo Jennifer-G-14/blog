@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Blog 1"
+date:   2021-09-17 18:23:20 -0700
+categories: jekyll update
+---
+# Python Crash Course Day 2!
+The following lesson will discuse variables and the naming conventions
+
+## What is a variable?
+A Python variable is a memory location reserved for storing values. A variable in a Python program, in other words, provides data to the computer for processing. In Python, every value has a datatype.
+
+# How to decalre a variable 
+To declare a variable give the variable a name and then set it equal to a value.
+
+# Example
+x = 10
+print (x)
+output: 10
+
+# Naming Conventions for Varibles
+* A variable name must start with a letter or the underscore character. (num1)
+* A variable name cannot start with a number. (1num)
+* A variable name can only contain alpha-numeric characters and underscores.(num_1)
+* Variable names are case-sensitive.
+* The reserved words(keywords) cannot be used naming the variable.
+
+
+
