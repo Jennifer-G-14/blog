@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Blog 1"
+date:   2021-09-24 18:23:20 -0700
+categories: jekyll update
+---
+# Python Crash Course Day 2!
+In this lesson I will be introducing Python Variables.
+
+## What is a Python Variable?
+In Python, every value has a datatype. Variables can be given any name or even alphabets.
+
+## The syntax for a variable
+The name of the variable followed by the value 
+Example:
+
+x = 10
+print (x)
+
+output: 10 
+
+## Naming Rules for Variables
+Variables have some rules when declaring them.
+
+1) A variable name must start with a letter or the underscore character.
+   Example: num1, input
+2) A variable name cannot start with a number.
+   Example: 1num 
+3) A variable name can only contain alpha-numeric characters and underscores.
+   Example: num_1, user_input
+4) Variable names are case-sensitive (name, Name and NAME are three different variables).
+5) The reserved words(keywords) cannot be used naming the variable.
+
