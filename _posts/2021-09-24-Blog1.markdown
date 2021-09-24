@@ -14,9 +14,9 @@ A Python variable is a memory location reserved for storing values. A variable i
 To declare a variable give the variable a name and then set it equal to a value.
 
 # Example
-x = 10
-print (x)
-output: 10
+- x = 10
+- print (x)
+- output: 10
 
 # Naming Conventions for Varibles
 * A variable name must start with a letter or the underscore character. (num1)
