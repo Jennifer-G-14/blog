@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Blog 2"
+date:   2021-10-01 18:23:20 -0700
+categories: jekyll update
+---
+# Python Crash Course Day 3!
+The following lesson will discuse key words and functuons.
+
+## What is a key word? 
+Keywords are special reserved words with specific meanings and purposes. You will never have to import these keywords into your code because they are always available. Python has 33 keyword. 
+
+## Examples of key words and what they are used for.
+* True - used as the Boolean true value in Python code. 
+* False - used as the Boolean false value in Python code. 
+* break - needed to exit a loop early
+* else - denotes a block of code that should be executed only if the other conditional blocks are satisfied.
+
+## What are functions?
+A function is a collection of code. You must call the function to run the code within it. After defining a function, it can be called from anywhere. A return statement is used by functions to return a value.
+
+## Examples of functions and what they are used for.
+* print() - prints to the console 
+* type() - returns the type of an object 
+* round() - rounds a number 
+* int() - returns a number 
+
