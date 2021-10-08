@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Blog 2"
+date:   2021-10-01 18:23:20 -0700
+categories: jekyll update
+---
+# Python Crash Course Day 4!
+The following lesson will discuss operators. Python has many opererators, we will be focusing on arithmetic and comparison operators. 
+
+## What is a Operators 
+Operators are used to perform operations on variables and values. 
+
+## Arithmetic Operations Definition 
+Arithmetic operators are used to perform mathematical operations. 
+
+## Arithmetic operators and meanings
+
+* +  (Add)  (x+y)
+* -  (Subtract) (x-y)
+* *  (Multiply) (x*y)
+* /  (Divide)   (x/y)
+* %  (Remainder of what is being divide)
+
+## Comparison Operations Definition
+Comparison operators are used to compare values. It returns either True or False according to the condition.
+
+## Compariosn operators and meanings
+
+* > (Greater than)  (x > y)
+* < (Less than) (x < y)
+* >= (Greater than or equal to) (x >= y)
+* <= (Less than or equal to)    (x <= y)
+* == (Equal to) (x == y)
+* != (Not equal to) (x != y)
+
+
