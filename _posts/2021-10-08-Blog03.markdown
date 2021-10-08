@@ -15,22 +15,22 @@ Arithmetic operators are used to perform mathematical operations.
 
 ## Arithmetic operators and meanings
 
-* +  (Add)  (x+y)
-* -  (Subtract) (x-y)
-* *  (Multiply) (x*y)
-* /  (Divide)   (x/y)
-* %  (Remainder of what is being divide)
+* (+)  (Add)  (x+y)
+* (-)  (Subtract) (x-y)
+* (*)  (Multiply) (x*y)
+* (/)  (Divide)   (x/y)
+* (%)  (Remainder of what is being divide)
 
 ## Comparison Operations Definition
 Comparison operators are used to compare values. It returns either True or False according to the condition.
 
 ## Compariosn operators and meanings
 
-* > (Greater than)  (x > y)
-* < (Less than) (x < y)
-* >= (Greater than or equal to) (x >= y)
-* <= (Less than or equal to)    (x <= y)
-* == (Equal to) (x == y)
-* != (Not equal to) (x != y)
+* (>) (Greater than)  (x > y)
+* (<) (Less than) (x < y)
+* (>=) (Greater than or equal to) (x >= y)
+* (<=) (Less than or equal to)    (x <= y)
+* (==) (Equal to) (x == y)
+* (!=) (Not equal to) (x != y)
 
 
