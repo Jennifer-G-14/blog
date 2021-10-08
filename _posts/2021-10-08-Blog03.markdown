@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog 2"
+title:  "Blog 3"
 date:   2021-10-01 18:23:20 -0700
 categories: jekyll update
 ---
@@ -17,7 +17,7 @@ Arithmetic operators are used to perform mathematical operations.
 
 * (+)  (Add)  (x+y)
 * (-)  (Subtract) (x-y)
-* (*)  (Multiply) (x*y)
+* ( * )  (Multiply) (x*y)
 * (/)  (Divide)   (x/y)
 * (%)  (Remainder of what is being divide)
 
