@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Blog 5"
+date:   2021-10-21 16:19:12 -0700
+categories: jekyll update
+---
+
+## Everything to know about a Dockerfile
+Talking more about Docker and what is a Dockerfile. 
+
+# What is a Dockerfile?
+A Dockerfile is a text document that contains all of the commands that may be used to construct an image if the user were to run them from the command line. Docker build allows users to design an automated build that performs a series of command-line instructions in order.
+
+# Benefits of a Dockerfile
+It is used to automate work by providing all of the steps to be performed on a docker image. It gives the ability to test the same Dockerfile on several OS types, manual image creation will become hard since you will have to build images for each test. By making a minor change to the Dockerfile, you can quickly create images for each OS type.
+
+# Example of a Dockerfile
+FROM ubuntu:18.04
+RUN apt update
+RUN apt install -y wget
+RUN apt install -y curl
+RUN mkdir -p /example
+
+# Explanation of Dockerfile 
+This file with install ubuntu:18.04 image THEN update the image THEN install wget THEN install curl THEN make a directory called example. 
+
+# What is a Docker image?
+A Docker image is a file containing instructions for running code within a Docker container. Docker images, similar to a template, serve as a set of instructions for building a Docker container. Secondly, Docker images serve as a starting point when using Docker. In virtual machine environments, an image is a snapshot.
