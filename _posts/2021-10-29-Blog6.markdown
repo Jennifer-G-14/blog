@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog 6"
+title:  "API"
 date:   2021-10-29 16:11:00 -0700
 categories: jekyll update
 ---
@@ -22,4 +22,9 @@ When you use an app on your phone, it connects to the Network and sends informat
 3. Travel Booking
 4. Chat Bots
 
+## How to use an API!
+1. Select the API you wish to use
+2. An API key will be needed to connect in some cases
+3. Review the API document. Valuable information will be here on how to get the info you are looking for!
+4. Write a request to an endpoint
 
