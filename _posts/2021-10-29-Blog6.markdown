@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Blog 6"
+date:   2021-10-29 16:11:00 -0700
+categories: jekyll update
+---
+# All About APIs
+This post we will be discussing what is an API and how can they be used!
+
+## What is an API (Application Programming Interface)?
+An application programming interface (API) is a link between two computers or programs. It's a form of software interface that provides a service to other programs.
+
+## What can an API be used for?
+APIs can be utilized in web-based systems, operating systems, database systems, and computer hardware.
+
+## Example of using an API
+When you use an app on your phone, it connects to the Network and sends information to a server. The server then retrieves the information, interprets it, takes the appropriate actions, and sends it back to your phone. The software then analyses the data and displays the information you requested in a legible fashion. All of this occurs via API.
+
+## Example of APIs we use often.
+1. A weather app
+2. Buying a new outfit with Paypal
+3. Travel Booking
+4. Chat Bots
+
+
