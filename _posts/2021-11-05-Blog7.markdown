@@ -5,15 +5,15 @@ date:   2021-11-05 09:23:20 -0700
 categories: jekyll update
 ---
 
-# A Blog about web servers
+## A Blog about web servers
 
-## Web Server Definition 
+# Web Server Definition 
 A web server is the software that receives a request to access a web page. The server will take the user to the page after checking the HTTP request and performing secuirty checks. When all these steps are completed the page is then displayed to the user.
 
-## Web server example: Apache  
+# Web server example: Apache  
 The web server software Apache is the most extensively used. Apache is a free open source program.  It is responsible for more than half of the world's webservers. It's quick, safe, and dependable. Through the use of extensions and modules, it may be highly modified to meet anyones needs.
 
-## Steps on how a web page and web server communicate 
+# Steps on how a web page and web server communicate 
 1. User types in URL
 2. The browser initiates a TCP connection to the server through its IP address. As part of this process, the browser also makes DNS lookup requests to convert the URL to an IP address.
 3. The browser makes HTTP requests to the server to obtain the content after the server completes its side of the TCP connection acknowledgement.
