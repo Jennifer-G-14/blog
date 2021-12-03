@@ -13,6 +13,11 @@ Kubernetes is an open-source container orchestration system for automating the d
 ## Is Kubernetes the same as Docker?
 Kubernetes and Docker vary in that Kubernetes is designed to run across a cluster, whereas Docker is designed to run on a single node. Kubernetes and Docker can be used together and if used together can unlock a world of possibilites. 
 
+## Advantages 
+1. Portable and flexable - It can be used with almost any container. Kubernetes can be used with almost any infrastructure.
+2. Open Source - Kubernetes is a fully open source, community-led project.
+3. Marketable - Knowing Kubernetes is important to finding a good job, and will have you standing apart from others. 
+
 ## Learning 
 To learn Kubernetes it is important to have a basic understanding of containers. The start learning you must take that first step. 
 
