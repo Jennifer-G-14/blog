@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Blog 10"
+date:   2021-12-03 18:23:20 -0700
+categories: jekyll update
+---
+# Kubernetes
+This blog will be used to discuss Kubernetes.
+
+## What is Kubernetes?
+Kubernetes is an open-source container orchestration system for automating the deployment, and administration of computer applications. They are good at managing containerized workloads and services that is portable and adaptable.
+
+## Is Kubernetes the same as Docker?
+Kubernetes and Docker vary in that Kubernetes is designed to run across a cluster, whereas Docker is designed to run on a single node. Kubernetes and Docker can be used together and if used together can unlock a world of possibilites. 
+
+## Learning 
+To learn Kubernetes it is important to have a basic understanding of containers. The start learning you must take that first step. 
+
+
+
