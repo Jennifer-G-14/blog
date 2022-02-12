@@ -18,4 +18,4 @@ There are many benefits that come along with the use of VS Code. A few include, 
 ## Some things VS is capable of 
 1) Use a terminal within the VS window. 
 2) Get word suggestions while typing.
-3) Debug helper 
+3) Debug helper to get unstuck faster. 
