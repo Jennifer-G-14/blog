@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Spring Blog 3"
+date:   2022-03-05 13:23:20 -0700
+categories: jekyll update
+---
+## Docker Compose
+Docker Compose is an application that allows you to define and operate multi-container Docker applications. You configure your application's services using Compose using a YAML file. Then you build and start all of the services from your setup with a single command.
+
+# Things Docker Compose will do 
+* When containers are built, keep volume data safe.
+  * All volumes used by your services are preserved in Compose. If docker-compose discovers any containers from prior runs, it moves their volumes to the new container. This procedure ensures that any data stored in volumes is not lost.
+  
+* Only the containers that have changed will be recreated.
+  * Compose saves the container's configuration. Compose re-uses the current containers when you restart a service that has not changed. You may modify your environment rapidly by reusing containers.
+
+* Variables and moving a composition between environments
+  * In the Compose file, variables are supported. These variables can be used to adapt your composition for different contexts or users.
+  
+# Reasons to use Docker Compose 
+* Automate a testing environments
+* Development environments
