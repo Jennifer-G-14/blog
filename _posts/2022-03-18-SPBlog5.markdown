@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Spring Blog 5"
+date:   2022-03-18 16:14:21 -0700
+categories: jekyll update
+---
+## What is CI/CD in DevOps? 
+CI stands for continuous integration and CD stands for continuous delivery. It is a step that is important to the delivery of new versions of software. CI/CD makes it easier to automate and keep up with an app all the way through the lifecycle.
+
+# Why is CI/CD important? 
+There are various stages to CI/CD. These include building, testing, releases, deployment, and compliance.
+* Building - The application is built.
+* Testing - The code is tried out and automation is useed to save time and money.
+* Releases - Verisons are rolled out.
+* Deployment - Code deployed to production.
+* Compliance - To make sure the application works and to the companies needs.
+
+# Tools for CI/CD
+* Jenkins - Is a free and open-source automation server that can be used to build a single project and run it over and over again. There are hundreds of plugins that can help Jenkins build, launch, and run software projects.
+* GitLab - Is a set of tools for managing the software development process. It may start building, running tests, and deploying code when you make a change or push it. Work in a virtual machine, a Docker container, or on a different machine.
+* CircleCi - Makes it easier to make software quickly. CircleCI makes the user's process from development to deployment more efficient. Another service CircleCI provides is cloud-managed continuous integration and private infrastructure that is behind a firewall.
