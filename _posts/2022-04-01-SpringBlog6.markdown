@@ -15,3 +15,7 @@ An EC2 load balancer spreads incoming application traffic across several EC2 ins
 * Increased availability of application - The AWS ELB can handle traffic spikes and millions of requests at a time. Auto-scaling and load balancing rules provide seamless performance to users when traffic increases. The ELB uses the cloud’s agility and scalability to keep website traffic flowing.
 * Security - Integrates SSL/TLS decryption, certificate management, and user authentication with Amazon Virtual Private Cloud (VPC). Together, they enable you to manage TLS settings centrally and offload CPU-intensive applications.
 
+# Features of an Elastic Load Balancer 
+* Health Monitoring - It can track unsuitable instances and balance the load towards the working instances.
+* TLS Termination - SSL/TLS decryption and certificate management help the CPU from overloading.
+* Layer 4 and 7 Balance - HTTP/HTTPS applications can load balance for layer 7 or just layer 4 which uses UDP and TCP.
