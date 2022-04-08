@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spring Blog 7"
-date:   2022-02-11 10:23:20 -0700
+date:   2022-04-08 10:23:20 -0700
 categories: jekyll update
 ---
 ## DevOps Skills to Know to get a job!
