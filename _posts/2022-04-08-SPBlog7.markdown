@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Spring Blog 7"
+date:   2022-02-11 10:23:20 -0700
+categories: jekyll update
+---
+## DevOps Skills to Know to get a job!
+This blog will be about what skills you should try to hone to make it that much easier to get a job!
+
+# Linux
+Most DevOps operations use Linux. Linux is customizable, allowing developers to tailor it to their specific needs and requirements.
+
+# Testing 
+Testing is used to identify and correct defects in the delivered application.
+
+# Automation
+Automation is critical in application development. Repetitive manual processes should be performed quickly and without human intervention to promote fast shipping. Automation not only increases speed but also reduces errors and produces high-quality products.
+
+# Coding and Scripting 
+Coding experience in a few languages is a must for a DevOps engineer. Python, Ruby, Perl, Java, and Bash, to name a few.  These are the best languages for automating. To replace manual processes, good coding skills are required.
+
+# Cloud Computing 
+It centralizes application development and testing. It also promotes resource sharing and collaboration. One must be familiar with cloud providers, services, and platforms, such as Amazon (AWS). The cloud also enables automation and accessible data and code recovery.
