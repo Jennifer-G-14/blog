@@ -5,7 +5,7 @@ date:   2022-04-16 10:00:12 -0700
 categories: jekyll update
 ---
 ## All about linters
-This blog will discuss linter 
+This blog will discuss linters
 
 # What are linters
 Lint is a code analyzer. Checking your code for mistakes in both programming and style is called "linting." Programming errors are something that everyone is familiar with. Some endanger the safety and security of a mission-critical system by failing to do so. It is critical to avoid these pitfalls no matter what type of program you are developing or modifying. This is one of the primary reasons to use linting.
